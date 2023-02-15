@@ -48,6 +48,6 @@ cls:
 	int 0x10       ; Call the BIOS interrupt!
 	ret            ; Return
 
-display db "THis is...", 13, 10, "WANNA DIE", 13, 10, 0 ; The null terminator is very important!
+display db "This is...", 13, 10, "WANNA DIE", 13, 10, 0 ; The null terminator is very important!
 times 510 - ($ - $$) db 0 ; Zero remaining sectors
 dw 0xaa55 ; Bootable signature
