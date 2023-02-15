@@ -1,4 +1,4 @@
-# Python MBR overwriting with custom text
+# Python B00T overwriting with custom text [NOT MADE BY CPScript]
 Overwrite the Master Boot Record with custom text using Python.
 ![image](https://user-images.githubusercontent.com/87199260/210273463-28d76755-b5b1-4c8f-b49e-feb0f2ea2a2c.png)
 <br>NASM: https://www.nasm.us/pub/nasm/releasebuilds/?C=M;O=D
